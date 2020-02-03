@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: aquamarine;
+}
+
+#header {
+    font-size: 35px;
+    background: white;
+    color: aquamarine;
+}
