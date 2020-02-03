@@ -6,6 +6,7 @@ body {
 
 #header {
     font-size: 35px;
-    background: white;
+    background: #333;
+    text-align: center;
     color: aquamarine;
 }
