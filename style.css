@@ -5,6 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 #header {
@@ -12,6 +13,8 @@ body {
     background: #333;
     text-align: center;
     color: aquamarine;   
+    margin-top: 200px;
+    width: 100%;
 }
 
 #header:hover {
